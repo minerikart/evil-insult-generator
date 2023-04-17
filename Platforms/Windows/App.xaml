@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Evil_Insult_Generator.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Evil_Insult_Generator.WinUI">
+
+</maui:MauiWinUIApplication>
